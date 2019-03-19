@@ -1,0 +1,17 @@
+/.idea
+.DS_Store
+npm-debug.log
+/html
+/mobile
+*.zip
+*.iml
+*.css.map
+.project
+/.settings
+/node_modules
+/dist
+/shop
+/site
+**/temp/
+/dev/temp
+package-lock.json
